@@ -1,0 +1,19 @@
+# General temp files
+.DS_Store
+*.ser
+*.pyc
+*.swf
+
+# IDE and editors
+*~
+eclipse
+.amateras
+.settings
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+
+# Tempolaly
+tmp
